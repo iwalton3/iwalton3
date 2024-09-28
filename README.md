@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello! I'm Izzie.
 
-<!--
-**iwalton3/iwalton3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on Jellyfin and a number of other side projects, which are mostly media related.
 
-Here are some ideas to get you started:
+If you appreciate my work on these projects, you can donate:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Paypal: https://www.paypal.me/iwalton3
+
+XMR: 85PjuqSkd2jXHSXhvcfUrTgM4hbfCUo1RPeo1RrcoVkQ1EJUcXbD9y72Tsuv5nFidgEt32RswFqiwEXBQpydBRYVUrcKF7t
+LTC: LSJsRq4ShytbGbK35jkLE75ZxQ6WZ3q368
+BTC: bc1qjuw7qrwm202qplyulftpscrsw6d3u9q0j3f9uj
+ETH/USDT/USDC: 0x22722ce11C9411524c8114bD80C1bB8Db425750D
+Note: Address works for ETH, Polygon, and BSC.
